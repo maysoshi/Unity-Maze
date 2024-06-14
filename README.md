@@ -5,12 +5,10 @@ Cube Quest is an engaging maze game built using Unity, where players navigate th
 
 ## Features
 - Maze-like environment with walls and obstacles
-- First-person perspective for an immersive gaming experience
-- Collectible red cubes scattered throughout the maze
-- Dynamic scoring system to track player progress
+- First-person perspective 
+- Collectible red cubes 
+- Dynamic scoring system 
 - Responsive character movement and rotation mechanics
-- Interactive elements, such as objects vanishing upon contact with the player
-- User interface with instructions, messages, and feedback
 
 ## Controls
 - W: Move forward
