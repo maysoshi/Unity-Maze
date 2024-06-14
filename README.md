@@ -1,7 +1,7 @@
 # Cube Quest: Navigating the Unity Maze
 
 ## Description
-Cube Quest is an engaging maze game built using Unity, where players navigate through a maze-like environment to collect red cubes. The game features a first-person perspective, allowing players to explore the maze while being immersed in the environment.
+Cube Quest is a game built using Unity where players navigate through a maze-like environment to collect red cubes. The game features a first-person perspective, allowing players to explore the maze while being in the environment.
 
 ## Features
 - Maze-like environment with walls and obstacles
