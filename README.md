@@ -28,8 +28,8 @@ Cube Quest is an engaging maze game built using Unity, where players navigate th
 2. Open the project in Unity.
 3. Build and run the game for your desired platform (e.g., Windows, macOS).
 
-## Acknowledgments
-This project was developed as part of the CS175 course at Harvard University. We would like to thank Professor Gortler and the entire teaching staff for their guidance and support throughout the semester.
+## Collaborators 
+Charles Neuhauser 
 
 ## Future Work
 - Implement additional levels and maze layouts
