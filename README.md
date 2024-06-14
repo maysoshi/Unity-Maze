@@ -16,16 +16,6 @@ Cube Quest is a game built using Unity where players navigate through a maze-lik
 - A: Move left
 - D: Move right
 
-## Building and Running the Game
-
-### Prerequisites
-- Unity game engine
-
-### Instructions
-1. Clone or download the project repository.
-2. Open the project in Unity.
-3. Build and run the game for your desired platform (e.g., Windows, macOS).
-
 ## Collaborators 
 Charles Neuhauser 
 
