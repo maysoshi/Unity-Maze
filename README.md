@@ -14,12 +14,16 @@ Cube Quest is a game built using Unity where players navigate through a maze-lik
 - W: Move forward
 - S: Move backward
 - A: Move left
-- D: Move right
-
-## Collaborators 
-Charles Neuhauser 
+- D: Move right 
 
 ## Future Work
 - Implement additional levels and maze layouts
 - Introduce new types of collectibles or power-ups
 - Enhance visual and audio elements for improved immersion
+
+## Collaborators 
+Charles Neuhauser
+
+## Acknowledgements
+
+This project was completed as part of Computer Science 175 at Harvard University.
